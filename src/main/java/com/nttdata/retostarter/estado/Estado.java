@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nttdata.retostarter;
+package com.nttdata.retostarter.estado;
 
 /**
  *
@@ -16,4 +16,14 @@ public class Estado {
     public Estado(String estado) {
         this.estado = estado;
     }
+
+    public String getEstado() {
+        return estado;
+    }
+
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
+    
+    
 }

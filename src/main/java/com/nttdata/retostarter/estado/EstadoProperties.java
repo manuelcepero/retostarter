@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nttdata.retostarter;
+package com.nttdata.retostarter.estado;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
