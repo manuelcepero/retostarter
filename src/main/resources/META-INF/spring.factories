@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=retostarter.com.nttdata.retostarter.EstadoAutoconfigure
